@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : "Bart Kneepkens"
 your_link                                 :                     
-your_city                                 : Amsterdam
+your_city                                 : "Amsterdam, 🇳🇱"
 email_address                             : bkneepkens@icloud.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -54,8 +54,8 @@ features                                  :
     description                           : So you can play even at night :)
     fontawesome_icon_name                 : adjust
     
-  - title                                 : Made with ❤️ using SwiftUI
-    description                           :
+  - title                                 : Made with ❤️
+    description                           : Using SwiftUI
     fontawesome_icon_name                 : fire
 
 # Theme Settings
