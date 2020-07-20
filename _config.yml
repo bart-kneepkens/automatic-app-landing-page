@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Earn stars for every puzzle you complete
-    fontawesome_icon_name                 : chart
+    fontawesome_icon_name                 : icon-bar-chart
     
   - title                                 : Simplistic User Interface
     description                           : Who doesn't love primary colors?
@@ -56,7 +56,7 @@ features                                  :
     
   - title                                 : Made ❤️ with SwiftUI
     description                           :
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : icon-apple
 
 # Theme Settings
 topbar_color                              : "#000000"
