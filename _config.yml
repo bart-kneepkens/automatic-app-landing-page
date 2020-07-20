@@ -44,7 +44,19 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Earn stars for every puzzle you complete
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : line-chart
+    
+  - title                                 : Simplistic User Interface
+    description                           : Who doesn't love primary colors?
+    fontawesome_icon_name                 : paint-brush
+    
+  - title                                 : Supports Dark Mode
+    description                           : So you can play even at night :)
+    fontawesome_icon_name                 : moon-o
+    
+  - title                                 : Made ❤️ with SwiftUI
+    description                           :
+    fontawesome_icon_name                 : flash
 
 # Theme Settings
 topbar_color                              : "#000000"
