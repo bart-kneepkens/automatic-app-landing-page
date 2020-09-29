@@ -4,8 +4,6 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-
 # **Version 1.3**
 
 Accessibility and iOS 14 improvements.
