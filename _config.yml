@@ -50,6 +50,10 @@ features                                  :
   - title                                 : Supports Dark Mode
     description                           : So you can play even at night :)
     fontawesome_icon_name                 : adjust
+
+  - title                                 : Trivia
+    description                           : Learn more about numbers (on English devices)
+    fontawesome_icon_name                 : question-circle
     
   - title                                 : Made with ❤️
     description                           : Using SwiftUI
