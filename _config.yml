@@ -54,6 +54,10 @@ features                                  :
   - title                                 : Trivia
     description                           : Learn more about numbers (on English devices)
     fontawesome_icon_name                 : question-circle
+
+  - title                                 : Accessibility 
+    description                           : VoiceOver as a first-class interface
+    fontawesome_icon_name                 : universal-access
     
   - title                                 : Made with ❤️
     description                           : Using SwiftUI
